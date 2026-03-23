@@ -22,3 +22,17 @@ SmartPet Health Tracker is a desktop application built in Python that allows use
 ```bash
 pip install matplotlib
 python SmartPet Health Tracker.py
+
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](Dashboard.png)
+
+### Login
+![Login](Login.png)
+
+### Health Records
+![Health Records](Health Records.png)
+
+### Pets
+![Pets](Pets.png)

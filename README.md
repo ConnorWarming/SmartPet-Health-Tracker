@@ -33,7 +33,7 @@ python SmartPet Health Tracker.py
 ![Pets](Pets.png)
 
 ### Health Records
-![Health Records](Health Records.png)
+![Health Records](Health_Records.png)
 
 ## Author
 Connor Warming

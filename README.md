@@ -1,38 +1,39 @@
 # SmartPet Health Tracker
 
 ## Overview
-SmartPet Health Tracker is a desktop application built in Python that allows users to manage and track their pets' health records. It includes features such as user authentication, data visualization, and persistent storage using SQLite.
+SmartPet Health Tracker is a desktop application built in Python that allows users to manage and track pet health records, including medical history and reminders.
 
 ## Features
-- User authentication (login/register)
+- User login and authentication
 - Add, update, and delete pets
-- Track health records (vaccinations, vet visits, etc.)
-- Dashboard with statistics and reminders
-- Data visualization using charts
-- Export data to CSV
-- SQLite database integration
+- Track health records
+- Dashboard with statistics
+- Data visualization
+- CSV export functionality
 
 ## Technologies Used
 - Python
-- Tkinter (GUI)
+- Tkinter
 - SQLite
 - Matplotlib
 
 ## How to Run
-```bash
-pip install matplotlib
+pip install matplotlib  
 python SmartPet Health Tracker.py
 
-## 📸 Screenshots
+## Screenshots
+
+### Login Screen
+![Login](Login.png)
 
 ### Dashboard
 ![Dashboard](Dashboard.png)
 
-### Login
-![Login](Login.png)
+### Pets Management
+![Pets](Pets.png)
 
 ### Health Records
 ![Health Records](Health Records.png)
 
-### Pets
-![Pets](Pets.png)
+## Author
+Connor Warming
